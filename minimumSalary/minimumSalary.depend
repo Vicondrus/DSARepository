@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525511394 source:e:\program files (x86)\codeblocks\projects\minimumsalary\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1526999647 source:e:\program files (x86)\codeblocks\projects\minimumsalary\functions.c
+	"functions.h"
+
+1526999647 e:\program files (x86)\codeblocks\projects\minimumsalary\functions.h
+

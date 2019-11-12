@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524068274 source:e:\program files (x86)\codeblocks\projects\stronglyconnected\main.c
+	<stdio.h>
+	<stdlib.h>
+

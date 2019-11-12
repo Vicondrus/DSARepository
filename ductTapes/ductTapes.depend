@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524582637 source:e:\program files (x86)\codeblocks\projects\ducttapes\main.c
+	<stdio.h>
+	<stdlib.h>
+

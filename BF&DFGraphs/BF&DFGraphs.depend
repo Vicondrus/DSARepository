@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524166464 source:e:\program files (x86)\codeblocks\projects\bf&dfgraphs\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1524166523 source:e:\program files (x86)\codeblocks\projects\bf&dfgraphs\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1524166464 e:\program files (x86)\codeblocks\projects\bf&dfgraphs\functions.h
+

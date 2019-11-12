@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1525515860 source:e:\program files (x86)\codeblocks\projects\d&cmaxsum\main.c
+	<stdio.h>
+	<stdlib.h>
+	"D&C.h"
+
+1525515645 source:e:\program files (x86)\codeblocks\projects\d&cmaxsum\d&c.c
+	"D&C.h"
+
+1525515645 e:\program files (x86)\codeblocks\projects\d&cmaxsum\d&c.h
+

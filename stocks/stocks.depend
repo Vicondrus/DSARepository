@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1525516436 source:e:\program files (x86)\codeblocks\projects\stocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stocks.h"
+
+1525516163 source:e:\program files (x86)\codeblocks\projects\stocks\stocks.c
+	"stocks.h"
+
+1525516163 e:\program files (x86)\codeblocks\projects\stocks\stocks.h
+

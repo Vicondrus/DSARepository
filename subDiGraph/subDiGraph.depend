@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524166779 source:e:\program files (x86)\codeblocks\projects\subdigraph\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1524166779 source:e:\program files (x86)\codeblocks\projects\subdigraph\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1524166779 e:\program files (x86)\codeblocks\projects\subdigraph\functions.h
+

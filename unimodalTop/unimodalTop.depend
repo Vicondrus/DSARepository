@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1525516749 source:e:\program files (x86)\codeblocks\projects\unimodaltop\main.c
+	<stdio.h>
+	<stdlib.h>
+	"unimodalTop.h"
+
+1525516652 source:e:\program files (x86)\codeblocks\projects\unimodaltop\unimodaltop.c
+	"unimodalTop.h"
+
+1525516652 e:\program files (x86)\codeblocks\projects\unimodaltop\unimodaltop.h
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524166177 source:e:\program files (x86)\codeblocks\projects\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1524166209 source:e:\program files (x86)\codeblocks\projects\dijkstra\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1524166160 e:\program files (x86)\codeblocks\projects\dijkstra\functions.h
+

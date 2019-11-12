@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525184127 source:e:\program files (x86)\codeblocks\projects\greedymerge\main.c
+	<stdio.h>
+	<stdlib.h>
+

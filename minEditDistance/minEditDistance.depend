@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1525514426 source:e:\program files (x86)\codeblocks\projects\mineditdistance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1526999089 source:e:\program files (x86)\codeblocks\projects\mineditdistance\functions.c
+	"functions.h"
+
+1526999043 e:\program files (x86)\codeblocks\projects\mineditdistance\functions.h
+
